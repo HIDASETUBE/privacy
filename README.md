@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Privacy Policy</h2>
-<p>[Individual or Company Name] built the [App Name] app as a [open source | free | freemium | ad-supported | commercial] app. This SERVICE is provided by [Individual or company name] [at no cost] and is intended
+<p>[Individual or Company Name] built the Kana Lite app as a [open source | free | freemium | ad-supported | commercial] app. This SERVICE is provided by [Individual or company name] [at no cost] and is intended
     for use as is.</p>
 <p>This page is used to inform website visitors regarding [my|our] policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use [my|our] Service.</p>
@@ -75,8 +75,7 @@
 
 <p><strong>Contact Us</strong></p>
 <p>If you have any questions or suggestions about [my|our] Privacy Policy, do not hesitate to contact
-    [me|us].</p>
-<p>This Privacy Policy page was created at <a href="https://privacypolicytemplate.net"
-                                              target="_blank">privacypolicytemplate.net</a>.</p>
+    [me|us] at info@kanacinema.com.</p>
+
 </body>
 </html>
